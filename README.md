@@ -1,1 +1,1 @@
-## Spring + Spring MVC + JPA Sample
+## BackendTemplate
