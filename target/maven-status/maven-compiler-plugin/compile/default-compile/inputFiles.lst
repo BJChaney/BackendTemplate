@@ -1,0 +1,11 @@
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/base/ResponseCode.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/base/RestResponse.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/entity/User.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/controller/HelloController.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/service/UserService.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/service/impl/UserServiceImpl.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/controller/UserController.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/entity/base/TimeScopeEntity.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/dao/UserRepository.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/entity/base/BaseEntity.java
+/Users/qiuzhenhuan/Documents/code/web/htest/src/main/java/com/bjchaney/htest/entity/base/UUIDEntity.java
